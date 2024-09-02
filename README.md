@@ -67,4 +67,4 @@ df_no_outliers_zscore = df[(abs(z_scores) < 3).all(axis=1)]
 ![image](https://github.com/user-attachments/assets/f6df62b1-bbfc-4a54-9c5b-4f85e315b130)
 
 # Result:
-BY USING THIS CODE WE CAN HANDLE MISSING THE VALUES AND CAN REMOVE THE OUTLIERS.
+BY USING THIS CODE WE CAN HANDLE THE MISSING VALUES AND CAN REMOVE THE OUTLIERS.
